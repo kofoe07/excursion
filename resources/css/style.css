@@ -18,6 +18,7 @@ h2 {
 h3 {
     color: red;
     text-align: center;
+<<<<<<< HEAD
     font-size: 25px;
 }
 
@@ -32,3 +33,7 @@ h3 {
     display: flex;
     justify-content: center;
 }
+=======
+    font-size: 20px;
+}
+>>>>>>> 4fc49e625150d9d581d6b4004231ad1fd106fc49
