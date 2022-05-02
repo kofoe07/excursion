@@ -21,12 +21,6 @@ h3 {
     font-size: 25px;
 }
 
-.myimage img {
-    /* display: flex; */
-    /* text-align: center; */
-    /* justify-content: center; */
-}
-
 .myimage {
     /* text-align: center; */
     display: flex;
